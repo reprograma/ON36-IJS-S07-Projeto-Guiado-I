@@ -20,7 +20,7 @@ Eu sou mãe da Alice, Botafoguense (eu acredito sempre), consultora de desenvol
 - Bonus: Integrar ferramentas de inteligência artificial para melhorar o processo de deenvolvimento.
 
 
-# Conteúdo
+### Conteúdo
 - Apresentação do Projeto Guiado I
 - Etapa pré-código 
   - Requisitos, regras de negócio e casos de uso
@@ -29,7 +29,7 @@ Eu sou mãe da Alice, Botafoguense (eu acredito sempre), consultora de desenvol
 - Mão na massa!
 
 
-## Projeto guiado I   
+### Projeto guiado I   
 
 <h2 align=center> Sistema de Gestão das Oficinas de Cultura </h2>
 
