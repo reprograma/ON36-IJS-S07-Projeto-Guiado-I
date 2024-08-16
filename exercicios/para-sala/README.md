@@ -1,16 +1,17 @@
 # Exercício de Sala 🏫  
+ 
+## Projeto Guiado I
 
-## Nome do Exercicio
+### Exercício 1: Refinamento para entendimento dos requisitos, regras de negócio e casos de uso
+Com base nas informações que recebemos de negócio, vamos extrair informações que são relevantes para definir o design e arquitetura da nossa aplicação. Entender o nosso problema e como entregar valor para o nosso cliente.
 
-- Explicação do exercício: 
-[CONTEUDO]
----
 
-Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
+### Exercício 2: Implementação das classes do nosso domínio
+Antes de criar uma aplicação NestJS, vamos entender as nossas classes de domínio, suas relações, propriedades e métodos. Ter um esboço inicialsobre o que é cada coisa e que cada coisa faz ou não. Ter essa visão permite que sejamos mais produtivas quando colocamos a mão no código.
 
-- [ ] Fiz o fork do repositório.
-- [ ] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
-- [ ] Resolvi o exercício dentro da pasta resolução.
-- [ ] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
+
+## Exercício 3: Definição das rotas que serão expostas pela nossa API
+Antes de sair criando a nossa aplicação, vamos entender as rotas e os formatos das informações que vamos disponibilizar pela nossa API (Contratos). Isso ajuda a nivelar expectativas.
+
+## Exercício 4: Construção do sistema
+Cada aluna vai subir uma aplicação NestJS no seu repositório pessoal e vamos desenvolver a aplicação juntas durante a aula.
