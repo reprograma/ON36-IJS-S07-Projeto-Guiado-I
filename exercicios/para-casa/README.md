@@ -14,8 +14,8 @@ Acredite no seu processo, tenha paciência com você mesma e tenta se divertir.
 
 ## O que eu precisa fazer?
 (Obrigatório)
-- [ ] Implementar a gestão de cursos
-- [ ] Implementar o processo de lista de presença
+- [ ] Implementar a gestão de cursos (criar um curso com uma lista mockada de professores)
+- [ ] Implementar o processo de matrícula (vincular um aluno a um curso)
 
 (Opcional):
 - Refatorar o seu código buscando adotar melhorias relativas a boas práticas e adoção de padrões de projeto;
@@ -24,4 +24,4 @@ Acredite no seu processo, tenha paciência com você mesma e tenta se divertir.
 
 
 > Pra pensar:
-> "O que define qual é a arquitetura da aplicação é a forma como o código e as classes estão estruturadas e se relacionam, e não o nome ou a quantidade de pastinhas e arquivos presentes dentro do projeto" [Link para o artigo complet0](https://medium.com/@dannevesdantas/ddd-arquitetura-em-camadas-n-layer-e-n-tier-hexagonal-e-ports-and-adapters-onion-e-clean-28cd7f910b3d)
+> "O que define qual é a arquitetura da aplicação é a forma como o código e as classes estão estruturadas e se relacionam, e não o nome ou a quantidade de pastinhas e arquivos presentes dentro do projeto" [Link para o artigo completo](https://medium.com/@dannevesdantas/ddd-arquitetura-em-camadas-n-layer-e-n-tier-hexagonal-e-ports-and-adapters-onion-e-clean-28cd7f910b3d)
